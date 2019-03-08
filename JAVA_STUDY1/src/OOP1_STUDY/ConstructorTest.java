@@ -30,7 +30,7 @@ public class ConstructorTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Data1 d1 = new Data1();
-		Data2 d2 = new Data2(); //컴파일 에러 발생
+		//Data2 d2 = new Data2(); //컴파일 에러 발생
 		/* 컴파일 에러가 발생하는 이유는 기본 생성자가 없기 떄문이다.
 		    기본생성자가 컴파일러에 의해 생성되는 경우는 클래스에 정의된 생성자가 하나도없을떄 뿐이다.
 		 */

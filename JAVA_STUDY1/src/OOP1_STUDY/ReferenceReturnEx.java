@@ -1,6 +1,6 @@
 package OOP1_STUDY;
 //참조형 반환타입
-class Data{int x;}
+//class Data{int x;}
 
 public class ReferenceReturnEx {
 

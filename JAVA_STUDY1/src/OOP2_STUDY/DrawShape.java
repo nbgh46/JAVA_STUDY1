@@ -59,7 +59,7 @@ class Triangle extends shape{
 
 
 void draw() {
-	System.out.printf("[p1=%s,p2=%s,p3=%s,],color=%s%n",p[0].getxy(),p[1].getxy(),p[2].getxy());
+	System.out.printf("[p1=%s,p2=%s,p3=%s,  color=%s]%n",p[0].getxy(),p[1].getxy(),p[2].getxy(),color);
 }
 
 }

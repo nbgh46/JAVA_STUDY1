@@ -1,5 +1,5 @@
 package OOP1_STUDY;
-class Data {int x;}
+//class Data {int x;}
 
 public class ReferenceParamEx {  //참조형 매게변수 예제 
 
